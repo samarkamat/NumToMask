@@ -10,7 +10,9 @@ Usage:
 Options:
 -------
 `-a` Prints all (nonblank) lines from the config suffixed with =0 or =1 depending on if each is active based on the input
+
 `-d` Prints the binary version before the active flag 
+
 `-D` Only prints the binary value, without any flag names (will override `-d`)
 
 Config Format:
